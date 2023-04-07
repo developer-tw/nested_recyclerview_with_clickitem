@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">nestedRecyclerView</string>
+    <string name="title">tile</string>
+</resources>
